@@ -20,3 +20,8 @@
 - **Android Toolchain**: ✔️ SDK 34.0.0, all licenses accepted
 - **VS Code**: ✔️ Extension installed and configured
 - **Android Studio**: ✔️ Flutter and Dart plugins installed
+
+
+https://github.com/user-attachments/assets/f43dfeeb-d530-435f-b0b9-6fd28d946ddd
+
+
